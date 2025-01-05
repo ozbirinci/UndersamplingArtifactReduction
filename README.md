@@ -2,7 +2,7 @@
 Authors: Efe Özdilek, Öykü Özbirinci
 
 ## Overview
-This project was completed as the final project for the EEE 473 Medical Imaging Course at Bilkent University, intructed by 	Assoc. Prof. Emine Ülkü Sarıtaş. The project explores methods to minimize artifacts and aliasing effects caused by undersampling in Magnetic Resonance Imaging (MRI). The study implements and compares eight k-space undersampling schemes to reduce MRI acquisition time without compromising image quality. Compressed Sensing are employed to reconstruct undersampled data effectively.
+This project was completed as the final project for the EEE 473 Medical Imaging Course at Bilkent University, intructed by Assoc. Prof. Emine Ülkü Sarıtaş. The project explores methods to minimize artifacts and aliasing effects caused by undersampling in Magnetic Resonance Imaging (MRI). The study implements and compares eight k-space undersampling schemes on MATLAB to reduce MRI acquisition time without compromising image quality. Compressed Sensing are employed to reconstruct undersampled data effectively.
 
 The project aims to:
 - Analyze the impact of various undersampling methods on MRI image quality.
