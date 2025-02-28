@@ -45,7 +45,7 @@ The project demonstrates that tailored undersampling schemes can significantly r
 - **Compressed Sensing Techniques**: Effectively recovered image quality from randomly undersampled data.  
 - **Radial Undersampling**: Robust against motion artifacts.  
 
-Further details and visual comparisons are provided in the results section of the project paper.
+Further details and visual comparisons are provided in the results section of the project paper "Undersampling k-Space Data.pdf".
 
 ---
 
